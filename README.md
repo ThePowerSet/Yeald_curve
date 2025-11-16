@@ -1,1 +1,5 @@
-# Yeald_curve
+# Yeald_curve construction from swap data
+
+main dependencies are rateslib, numpy and pandas
+
+In order to run the code, clone the repository, and set the cd to the path of the local path of the cloned repository 
